@@ -1,14 +1,11 @@
 <h1 align="center">Welcome to cyber-education-server 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Sahariar#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Sahariar/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Sahariar/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/programming-hero-web-course1/cyber-education-server" />
+  <a href="https://twitter.com/Sahariar__Kabir" target="_blank">
+    <img alt="Twitter: Sahariar__Kabir" src="https://img.shields.io/twitter/follow/sahariar\_\_kabir.svg?style=social" />
   </a>
 </p>
 
