@@ -1,0 +1,19 @@
+[
+    {
+      "id": "01",
+      "name": "Cyber Security"
+    },
+    {
+      "id": "02",
+      "name": "Information Security"
+    },
+    {
+      "id": "03",
+      "name": "Ethical Hacking"
+    },
+    {
+      "id": "04",
+      "name": "Network Security"
+    }
+    
+  ]
