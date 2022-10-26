@@ -20,15 +20,32 @@ app.get('/cate', (req, res)=>{
 });
 app.get('/cate/:id', (req, res)=>{
     const id = req.params.id;
-    curriculumCateById = curriculums.filter( cur => cur.cate_id === id);
+   const curriculumCateById = curriculums.filter( cur => cur.cate_id === id);
     res.send(curriculumCateById)
 });
 
 app.get('/curriculum/:id' , (req , res) =>{
     const id = req.params.id;
-    curriculumById = curriculums.find( cur => cur.id === id);
+   const curriculumById = curriculums.find( cur => cur.id === id);
 
     res.send(curriculumById);
+})
+
+app.get('/feature' , (req , res) =>{
+   const feature = curriculums.filter( cur => cur.isFeatured === true);
+    res.send(feature);
+})
+app.get('/special' , (req , res) =>{
+   const special = curriculums.filter( cur => cur.isSpecial === true);
+    res.send(special);
+})
+app.get('/hot' , (req , res) =>{
+   const hot = curriculums.filter( cur => cur.isHot === true);
+    res.send(hot);
+})
+app.get('/new' , (req , res) =>{
+   const newItem = curriculums.filter( cur => cur.isNew === true);
+    res.send(newItem);
 })
 
 
