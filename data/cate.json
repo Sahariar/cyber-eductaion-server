@@ -1,19 +1,23 @@
 [
     {
       "id": "01",
-      "name": "Cyber Security"
+      "name": "Cyber Security",
+      "img":"https://i.ibb.co/WtCFcSy/icons8-cyber-security-100.png"
     },
     {
       "id": "02",
-      "name": "Information Security"
+      "name": "Information Security",
+      "img" :"https://i.ibb.co/7pxQmtJ/icons8-grand-master-key-100.png"
     },
     {
       "id": "03",
-      "name": "Ethical Hacking"
+      "name": "Ethical Hacking",
+      "img" :"https://i.ibb.co/B4VHc9B/icons8-anonymous-mask-100.png"
     },
     {
       "id": "04",
-      "name": "Network Security"
+      "name": "Network Security",
+      "img": "https://i.ibb.co/1KRq3ZX/icons8-security-configuration-100.png"
     }
     
   ]
