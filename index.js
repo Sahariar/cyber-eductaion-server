@@ -31,6 +31,8 @@ app.get('/curriculum/:id' , (req , res) =>{
     res.send(curriculumById);
 })
 
+
+
 app.listen(port, () => {
     console.log('app is running at',port);
 })

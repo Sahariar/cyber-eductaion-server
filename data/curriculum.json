@@ -1,7 +1,10 @@
 [
   {
     "id": "635804e026f2229a926bb6b8",
-    "cate_id": "01",
+        "cate_id": "01",
+    "cate_name": "Cyber Security",
+    "dob": "2021-05-12",
+    "tag" : "Security ,Beginners",
     "tittle": "The Absolute Beginners Guide to Cyber Security",
     "description": "Have you ever wondered exactly how hackers 'hack'? Do words like firewalls, encryption, bio-metrics and malware sound confusing to you? Have you been looking for a course that teaches you all the basics of both information and cyber security in a fun relaxed manner? If so then you are going to find this course absolutely perfect for you.",
     "description1": "This is a course that is perfect as an introductory one for individuals and students who are interested in becoming cyber security or information security professionals. It is also ideal for students who just want to have a well rounded knowledge about the basic concepts used in the world of information security.",
@@ -9,9 +12,13 @@
     "img": "https://i.ibb.co/vVpC68G/nahel-abdul-hadi-flha0-Kw-Rr-Rc-unsplash.jpg",
     "profile": {
       "name": "Aisha Rodriguez",
-      "insImg": "https://randomuser.me/api/portraits/men/1.jpg",
-      "about": "Eu enim eu cillum in voluptate. Minim veniam amet duis occaecat ad duis consequat Lorem nostrud labore."
+      "insImg":"https://randomuser.me/api/portraits/women/47.jpg", 
+      "about" :"Aisha Rodriguez is the CEO of Aisha Media, a modern holding company focused on building independent, scalable businesses at the intersection of technology and media. She is regarded as an expert in his field, teaching business and technology courses to more than 100,000 students and providing marketing training to a number of prominent startups and Fortune 500 companies.Aisha considers himself a passionate creative: she loves creating articles, videos, websites, companies, workflows, and new ideas. He has been creating things on the web since 2007, working on dozens of projects and reaching tens of millions of people in the process." 
     },
+    "isFeatured": true,
+    "isSpecial": true,
+    "isHot": true,
+    "isNew": true,
     "rating": 4.1,
     "price": 235,
     "content": [
@@ -189,6 +196,9 @@
   {
     "id": "635804e007f55b99907285da",
     "cate_id": "02",
+    "cate_name": "Information Security",
+    "dob": "2022-10-23",
+    "tag" : "Hackers ,Social",
     "tittle": "Social Media Security 101 - Stop The Hackers!",
     "description": "We will be going over a lot of different settings within each Social Media Platform. I will show you how to enable MultiFactor Authentication as well as making sure all the appropriate settings are checked to inform and protect you and your information. Protect Your Facebook, Instagram, LinkedIn, and Twitter Accounts and Stop The Hackers by enabling the built in Security! Nobody wants to be that person who says 'My Account Got Hacked, Ignore All Messages From Me!'",
     "description1": "We will be going over a lot of different settings within each Social Media Platform. I will show you how to enable MultiFactor Authentication as well as making sure all the appropriate settings are checked to inform and protect you and your information. Protect Your Facebook, Instagram, LinkedIn, and Twitter Accounts and Stop The Hackers by enabling the built in Security! Nobody wants to be that person who says 'My Account Got Hacked, Ignore All Messages From Me!",
@@ -197,10 +207,14 @@
     "profile": {
       "name": "Laura Fitzpatrick",
       "insImg": "https://randomuser.me/api/portraits/men/0.jpg",
-      "about": "Lorem non quis do duis. Aliquip do tempor sunt nisi mollit labore consectetur pariatur est nisi magna Lorem."
+      "about": "I realized it was something I was truly passionate about: personally helping people learn cyber security awareness, and making them feel empowered, secure and private again on the Internet.So in addition to currently working as a Chief Security Officer for a US corporation,  I recently created 1:M Cyber Security: a security awareness training company that teaches you to spot the red flags in social engineering attacks, and help protect your sensitive data and systems, both at work and at home. I make the training very effective, memorable and entertaining, by personally connecting with you using visuals, humor, and by presenting the material in a language that everyone can understand.I strongly believe that you need a passionate, energetic and engaging presenter, who will educate you on all the main cyber threats you face, based on real world experiences on the front lines, and without completely boring you guys to sleep"
     },
     "rating": 4.7,
     "price": 265,
+    "isFeatured": true,
+    "isSpecial": false,
+    "isHot": false,
+    "isNew": true,
     "content": [
       { "contentId" : "26b8",
         "contentTitle": "Introduction",
@@ -271,7 +285,10 @@
   },
   {
     "id": "635804e0b1cf9ab9376c32ec",
-    "cate_id": "02",
+        "cate_id": "02",
+    "cate_name": "Information Security",
+    "dob": "2022-02-07",
+    "tag" : "Cybersecurity ,Network",
     "tittle": "The Complete Cyber Security Course : Network Security!",
     "description": "Become a cyber security specialist.After this course, you will be able to discover security vulnerabilities across an entire network, by using network hacking techniques and vulnerability scanning.You will be able to architect your network for maximum security and prevent local and remote attacks. We also cover the use of custom router firmware to provide you with better network security services.You will understand the various types of firewalls that are available and what threats each help mitigate.Including layer 4 firewalls like Iptables on Linux and PF on MacOS and BSD. Virtual firewalls, host-based firewalls and application based firewalls like Pfsence. We cover firewalls on all platforms including Windows, Mac OS X and Linux for all types of use scenarios.We explore in detail wireless security, the configurations that are required for maximum security and why. How Wi-Fi is hacked and how to mitigate those attacks. Covering everything from encryption weaknesses to evil twins, RF isolation, and Wi-Fi crackers.",
     "description1": "You will master network monitoring to discover and identify potential hackers, malware and other adversaries that might be lurking on your network. Using tools like Wireshark, Tcpdump and Syslog.We then move away from network security and onto the details of how we are tracked online by corporations, nation-states your ISP and others. You will understand the techniques used like zombie super cookies, browser fingerprinting and how browser profiling works so third parties can establish who you are online.We look at search engine privacy - and how to mitigate the tracking and privacy issues of search engines and their associated services.",
@@ -280,10 +297,14 @@
     "profile": {
       "name": "Arnold Collins",
       "insImg": "https://randomuser.me/api/portraits/men/3.jpg",
-      "about": "Deserunt ut eiusmod ex sunt proident anim dolore consectetur enim sunt. Dolor sint elit veniam sint dolor."
+      "about": "I was responsible for incident detection, investigation and digital forensics of all cyber security incidents across the United States, as well as providing digital forensics assistance to Latin American regional offices.I managed and participated in hundreds of investigations, working with the FBI and DHS at times, and saw first hand how the bad guys were trying to break into our computers, emails, mobile phones and networks.And it was also during this time, using all the first-hand knowledge I had gained over the years, that I decided to create my very own Enterprise Security Awareness program, whereby I presented the engaging cyber security training either in-person, or via online videos, to 30,000 of my fellow employees across the United States and Latin America.It was very successful, and received really positive feedback."
     },
     "rating": 4.5,
     "price": 120,
+    "isFeatured": false,
+    "isSpecial": true,
+    "isHot": true,
+    "isNew": false,
     "content": [
       { "contentId" : "26bb6b8",
         "contentTitle": "Introduction",
@@ -459,6 +480,9 @@
   {
     "id": "635804e0dd6e8fce47d88562",
     "cate_id": "01",
+    "cate_name": "Cyber Security",
+    "dob": "2022-03-09",
+    "tag" : "Cybersecurity ,Management",
     "tittle": "Risk Management for Cybersecurity and IT Managers",
     "description": "Have you ever wondered why your organization's executives or your manager made a decision to fund or not fund your project?In this course, you will get an inside look at how cybersecurity and information technology (IT) managers determine which projects they will support with funding, and which they won't, based on a preliminary risk analysis. Over the past two decades, I have worked in the cybersecurity and information technology realm, fighting for my projects to be funded. Early in my career, I didn't understand why certain projects would be funded and executed, while others wouldn't. What I learned, is that it all came down to Risk Management by our executives and managers.",
     "description1": "You will learn the terms used by executives and managers in discussing Risk Management, and how to apply the concepts of Risk Management to your networks, systems, and projects. This course is not an operational or tactical course that focuses on how you will secure your networks, but instead focuses on the mindset of managers and teaches you how to think like they do. Once you master these concepts, it is much easier to build your business case for your projects and justify your budgetary needs.Throughout this course, we will discuss what comprises Risk (assets, threats, and vulnerabilities), providing numerous real-world examples along the way. We will also cover Qualitative and Quantitative Risk Measurements, showing how you can calculate the risk of an uncertainty due to vulnerabilities and threats.",
@@ -467,10 +491,14 @@
     "profile": {
       "name": "Jason Dion",
       "insImg": "https://randomuser.me/api/portraits/men/5.jpg",
-      "about": "Eu laborum labore dolore incididunt magna qui aute. Pariatur culpa aliqua laboris occaecat magna reprehenderit occaecat aliqua reprehenderit."
+      "about": "I am Jason Dion, a cyber security professional with over 20 years of leadership and hands-on experience working Cyber Security with Fortune 100 companies.I have lived and breathed cyber security for a very long time: having spent the first few years of my career conducting numerous security assessments and managing a Security Engineering team, I then moved on fight the bad guys on the cyber front lines for the past 10 years, by directing Digital Forensics and Incident Response teams for Fortune 100 companies."
     },
     "rating": 4.2,
     "price": 219,
+    "isFeatured": true,
+    "isSpecial": true,
+    "isHot": true,
+    "isNew": true,
     "content": [
       { "contentId" : "26bb6b8",
         "contentTitle": "Introduction ",
@@ -682,6 +710,9 @@
   {
     "id": "635804e035f7880123ebaff5",
     "cate_id": "03",
+    "cate_name": "Ethical Hacking",
+    "dob": "2022-06-09",
+    "tag" : "Dark Web ,Security",
     "tittle": "The Ultimate Dark Web, Anonymity, Privacy & Security Course",
     "description": "Welcome to the ultimate dark net, privacy, anonymity and security course. With no prior knowledge required this course will take you from a beginner to advanced in all of these topics; teaching you how to properly and securely discover data and websites on both the dark web and clear web, access hidden (onion) services, communicate privately and anonymously using instant messages and email, manually use end-to-end encryption to protect your privacy and make it impossible to read even if it gets intercepted, sign and verify files, share files anonymously, transfer funds anonymously using crypto currencies such as Bitcoin and Monero and much more! You'll also learn how to do all of this in a secure manner making it very difficult for hackers or other entities to hack you or de-anonymise you, and even if you get hacked these entities won't be able to easily control your system or de-anonymise you.",
     "description1": "This course is highly practical but won't neglect the theory, first you'll understand the inner-workings of each topic and each technique covered, then you'll learn how to apply it in real-life scenarios ultimately teaching you how to use the dark net and the clear net in a more private, more anonymouse and more secure manner, so by the end of the course you'll be able to combine the skills you learned and use them in any situation that requires more privacy, more anonymity or more security.",
@@ -690,10 +721,14 @@
     "profile": {
       "name": "Chandra Brennan",
       "insImg": "https://randomuser.me/api/portraits/men/6.jpg",
-      "about": "Eu amet est deserunt magna dolore esse laborum magna aliqua voluptate. Ex et culpa officia cillum ex."
+      "about": "In 2010, his SEED project was highlighted by the National Science Foundation in a report sent to the Congress. The report highlights 17 projects that represent cutting-edge creativity in undergraduate STEM classes nationwide. Due to the impact of the SEED labs, he received the 2017 Academic Leadership award from the 21st Colloquium for Information System Security Education. In 2019, Syracuse University bestowed upon him the  Meredith Professorship, the university's most prestigious honor for teaching excellence"
     },
     "rating": 4.5,
     "price": 165,
+    "isFeatured": true,
+    "isSpecial": true,
+    "isHot": false,
+    "isNew": false,
     "content": [
       { "contentId" : "26bb6b8",
         "contentTitle": "General Introduction to IT & Cyber Security",
@@ -869,7 +904,10 @@
   {
     "id": "635804e033560609b17184cc",
     "cate_id": "04",
+    "cate_name": "Network Security",
     "tittle": "Information security in practice",
+    "dob": "2022-07-08",
+    "tag" : "security ,practice",
     "description": "In this course, you will learn the basics of information security and how to apply information security principles to your home environment or organization, regardless of its size.",
     "description1": "Information security, sometimes shortened to infosec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or at least reducing the probability of unauthorized/inappropriate access, use, disclosure, disruption, deletion/destruction, corruption, modification, inspection, recording or devaluation, although it may also involve reducing the adverse impacts of incidents. ",
     "description2": "The course is tough by Dr. Nikola Milosevic, a PhD in computer science with track record of publications and successful projects in information and cyber-security. Nikola is OWASP chapter and project leader and has been teaching on several reputable Universities over the past 5 years.  I have also published scientific papers on malware analysis. Now he wants to share this knowledge with you and help you develop your career!",
@@ -877,10 +915,14 @@
     "profile": {
       "name": "Amparo Combs",
       "insImg": "https://randomuser.me/api/portraits/men/11.jpg",
-      "about": "Do ullamco nulla id proident ea consectetur ullamco laborum officia duis minim. Anim qui proident aute sint qui duis amet non."
+      "about": "My passion is teaching people through online courses in a fun and entertaining manner.  I have been teaching online for about 5 years now and during this period, I have created over 25 different courses with more than 132,000 students registered worldwide."
     },
     "rating": 4.1,
     "price": 259,
+    "isFeatured": true,
+    "isSpecial": true,
+    "isHot": false,
+    "isNew": false,
     "content": [
       { "contentId" : "26bb6b8",
         "contentTitle": "General Introduction to IT & Cyber Security",
@@ -1056,6 +1098,9 @@
   {
     "id": "635804e0f49d6d2e5573e762",
     "cate_id": "04",
+    "cate_name": "Network Security",
+    "dob": "2022-08-06",
+    "tag" : "Fundamentals ,Techies",
     "tittle": "Information Security Management Fundamentals for Non-Techies",
     "description": "Are you looking to learn the basics of information security management? Are you a business or aspiring IT professional that needs to better understand how cybersecurity works? If so, this is the perfect course for you!",
     "description1": "If you’re looking to advance or begin your career in Information Technology (IT), this course is a must!",
@@ -1064,10 +1109,14 @@
     "profile": {
       "name": "Sonya Parrish",
       "insImg": "https://randomuser.me/api/portraits/women/17.jpg",
-      "about": "Proident dolor labore anim enim dolore. Tempor veniam officia nulla id qui nostrud sunt do et nulla et tempor."
+      "about": "We all have one shot at life and as such, I believe in living life to the fullest. This means constantly stepping out of my comfort zone by visiting new places and trying out new things. My relative success on Udemy has given me both financial freedom and the ability to be location independent. I am currently travelling around the world spending about a month in one city (current location is Chiang Mai, Thailand) before moving on to the next.My hobbies include watching movies, sports and playing chess. I am also a huge Dead by Daylight gamer."
     },
     "rating": 4.9,
     "price": 196,
+    "isFeatured": false,
+    "isSpecial": false,
+    "isHot": true,
+    "isNew": true,
     "content": [
       { "contentId" : "26bb6b8",
         "contentTitle": "General Introduction to IT & Cyber Security",
@@ -1243,6 +1292,9 @@
   {
     "id": "635804e0c9ae064df567e6fd",
     "cate_id": "03",
+    "cate_name": "Ethical Hacking",
+    "dob": "2022-05-19",
+    "tag" : "Security ,Basics , IT",
     "tittle": "Information Security Basics for IT Support Technicians",
     "description": "Over this course, we'll be covering some of the basics surrounding information security, and what you need to know in order to be compliant with most of the world's data protection policies, as well as some of the different ways in which data can be secured.Course topics include the following",
     "description1": "* Physical and logical information security and the relevant methods with which this can be achieved.* Auditing and accountability so that any actions are monitored and tracked.* Data retention policies so that data is only held for as long as it is needed.* File and folder permissions to help keep sensitive data from falling into the wrong hands* Activity logs and alerts to help identify any information security threats and prevent future ones.* Dealing with external staff and contractors, who can often start working for an organisation on short notice* Data protection and compliance and what you need to know in order to best protect your company* How to deal with any information security breaches that may arise* Reporting obligations and what information you would need to provide on such a report* An overview of root cause analysis, so that you know what caused an information security incident in the first place.",
@@ -1251,10 +1303,14 @@
     "profile": {
       "name": "Cassie Mcknight",
       "insImg": "https://randomuser.me/api/portraits/men/8.jpg",
-      "about": "Est ut est laboris ex quis adipisicing irure. Mollit exercitation pariatur ut irure proident."
+      "about": "Cassie has over 25 years of experience in cyber security, where he has advised some of largest companies in the world, assuring security on  multi-million and multi-billion pound projects. He is the CEO of Station X, a cyber security career development platform and consultancy. More recently he acted as  the lead security consultant on a number of the UK's mobile banking and  payment solutions helping secure to date over £71Bn in transactions."
     },
     "rating": 4.1,
     "price": 201,
+    "isFeatured": false,
+    "isSpecial": true,
+    "isHot": true,
+    "isNew": false,
     "content": [
       { "contentId" : "26bb6b8",
         "contentTitle": "General Introduction to IT & Cyber Security",
