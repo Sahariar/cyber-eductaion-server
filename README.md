@@ -27,13 +27,12 @@ npm run test
 
 ## Author
 
-👤 **Sahariar**
+👤 **Sahariar Kabir**
 
-* Github: [@programming-hero-web-course1](https://github.com/programming-hero-web-course1)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Sahariar/issues). You can also take a look at the [contributing guide](https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Sahariar/blob/master/CONTRIBUTING.md).
+* Website: http://sahariarkabir.com/
+* Twitter: [@sahariar\_\_kabir](https://twitter.com/Sahariar__Kabir)
+* Github: [@sahariar](https://github.com/sahariar)
+* LinkedIn: [@sahariar](https://linkedin.com/in/sahariar-kabir)
 
 ## Show your support
 
