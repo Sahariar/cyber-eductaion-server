@@ -53,7 +53,7 @@ app.get('/price' , (req , res) =>{
    
     res.send(sort);
 })
-app.get('/price/des' , (req , res) =>{
+app.get('/price/desc' , (req , res) =>{
 
     const sort = curriculums.sort((a, b) => parseFloat(b.price) - parseFloat(a.price));
    
