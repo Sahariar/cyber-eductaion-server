@@ -47,7 +47,31 @@ app.get('/new' , (req , res) =>{
    const newItem = curriculums.filter( cur => cur.isNew === true);
     res.send(newItem);
 })
+app.get('/price' , (req , res) =>{
 
+    const sort = curriculums.sort((a, b) => parseFloat(a.price) - parseFloat(b.price));
+   
+    res.send(sort);
+})
+app.get('/price/des' , (req , res) =>{
+
+    const sort = curriculums.sort((a, b) => parseFloat(b.price) - parseFloat(a.price));
+   
+    res.send(sort);
+})
+
+app.get('/rating' , (req , res) =>{
+
+    const sort = curriculums.sort((a, b) => parseFloat(a.rating) - parseFloat(b.rating));
+   
+    res.send(sort);
+})
+app.get('/rating/desc' , (req , res) =>{
+
+    const sort = curriculums.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
+   
+    res.send(sort);
+})
 
 
 app.listen(port, () => {
